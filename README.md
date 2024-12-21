@@ -1,4 +1,4 @@
-# GMCC-mining-1st-Batch-Project
+GMCC-mining-1st-Batch-Project
 
 <!DOCTYPE html>
 <html lang="en">
@@ -274,7 +274,4 @@
 
       <button type="submit">Submit Registration</button>
     </form>
-
-</dvi> Your registration verification after 72 hours and will provide a userid and pin on registered phone number and gmail
-    <div class="bank-link">
-      <p><a href="https://www
+Your registration verification after 72 hours and will provide a userid and pin on registered phone number and gmail account.
